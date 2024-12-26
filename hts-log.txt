@@ -1,0 +1,51 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 20 Dec 2024 18:31:34 at https://buddhaastro.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://buddhaastro.com/ -O1 "C:\Users\HP\Desktop\Astrology" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:32:52	Warning: 	Moved Permanently for https://buddhaastro.com/index.php/love-problems/
+18:32:52	Warning: 	File has moved from https://buddhaastro.com/index.php/love-problems/ to https://buddhaastro.com/love-problems/
+18:32:52	Warning: 	Moved Permanently for https://buddhaastro.com/index.php/divorce-problems/
+18:32:52	Warning: 	File has moved from https://buddhaastro.com/index.php/divorce-problems/ to https://buddhaastro.com/divorce-problems/
+18:32:52	Warning: 	Moved Permanently for https://buddhaastro.com/index.php/intercaste-marriage/
+18:32:52	Warning: 	File has moved from https://buddhaastro.com/index.php/intercaste-marriage/ to https://buddhaastro.com/intercaste-marriage/
+18:32:52	Warning: 	Moved Permanently for https://buddhaastro.com/index.php/job-problems/
+18:32:52	Warning: 	File has moved from https://buddhaastro.com/index.php/job-problems/ to https://buddhaastro.com/job-problems/
+18:32:52	Warning: 	Moved Permanently for https://buddhaastro.com/index.php/career-problems/
+18:32:52	Warning: 	File has moved from https://buddhaastro.com/index.php/career-problems/ to https://buddhaastro.com/career-problems/
+18:32:52	Warning: 	Moved Permanently for https://buddhaastro.com/index.php/familiar-support/
+18:32:52	Warning: 	File has moved from https://buddhaastro.com/index.php/familiar-support/ to https://buddhaastro.com/familiar-support/
+18:33:00	Warning: 	Moved Permanently for https://buddhaastro.com/?p=949
+18:33:00	Warning: 	File has moved from https://buddhaastro.com/?p=949 to https://buddhaastro.com/about/
+18:33:00	Warning: 	Moved Permanently for https://buddhaastro.com/?p=774
+18:33:00	Warning: 	File has moved from https://buddhaastro.com/?p=774 to https://buddhaastro.com/career-problems/
+18:33:00	Warning: 	Moved Permanently for https://buddhaastro.com/?p=768
+18:33:00	Warning: 	File has moved from https://buddhaastro.com/?p=768 to https://buddhaastro.com/divorce-problems/
+18:33:00	Warning: 	Moved Permanently for https://buddhaastro.com/?p=776
+18:33:00	Warning: 	File has moved from https://buddhaastro.com/?p=776 to https://buddhaastro.com/familiar-support/
+18:33:01	Warning: 	Moved Permanently for https://buddhaastro.com/?p=770
+18:33:01	Warning: 	File has moved from https://buddhaastro.com/?p=770 to https://buddhaastro.com/intercaste-marriage/
+18:33:01	Warning: 	Moved Permanently for https://buddhaastro.com/?p=772
+18:33:01	Warning: 	File has moved from https://buddhaastro.com/?p=772 to https://buddhaastro.com/job-problems/
+18:33:01	Warning: 	Moved Permanently for https://buddhaastro.com/?p=766
+18:33:01	Warning: 	File has moved from https://buddhaastro.com/?p=766 to https://buddhaastro.com/love-problems/
+18:33:01	Warning: 	Moved Permanently for https://buddhaastro.com/?p=2283
+18:33:01	Warning: 	File has moved from https://buddhaastro.com/?p=2283 to https://buddhaastro.com/book-a-pooja/
+18:33:01	Warning: 	Moved Permanently for https://buddhaastro.com/?p=2281
+18:33:01	Warning: 	File has moved from https://buddhaastro.com/?p=2281 to https://buddhaastro.com/consult-astrologers/
+18:33:05	Warning: 	Moved Permanently for https://buddhaastro.com/?p=2285
+18:33:05	Warning: 	File has moved from https://buddhaastro.com/?p=2285 to https://buddhaastro.com/gemstone-rudraksha/
+18:33:05	Warning: 	Moved Permanently for https://buddhaastro.com/?p=951
+18:33:05	Warning: 	File has moved from https://buddhaastro.com/?p=951 to https://buddhaastro.com/contact/
+18:33:05	Error: 	"Not Found" (404) at link https://buddhaastro.com/giItT1WQy@!-/ (from https://buddhaastro.com/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6)
+18:33:05	Error: 	"Not Found" (404) at link https://buddhaastro.com/images/ (from https://buddhaastro.com/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6)
+18:33:05	Error: 	"Not Found" (404) at link https://buddhaastro.com/GET (from https://buddhaastro.com/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6)
+18:33:05	Error: 	"Not Found" (404) at link https://buddhaastro.com/-negative.svg (from https://buddhaastro.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3)
+18:33:05	Error: 	"Not Found" (404) at link https://buddhaastro.com/OPR/ (from https://buddhaastro.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.18.3)
+18:33:05	Error: 	"Not Found" (404) at link https://buddhaastro.com/window.location.href (from https://buddhaastro.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.18.2)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 33 seconds : 226 links scanned, 202 files written (31669088 bytes overall) [27107539 bytes received at 291478 bytes/sec], 6866476 bytes transferred using HTTP compression in 118 files, ratio 18%, 7.0 requests per connection
+(6 errors, 34 warnings, 0 messages)
